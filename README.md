@@ -15,6 +15,6 @@ Thank you for your understanding.**
   
    Thank you for your understanding.
 
-2. Name API - to start (node server.js)
+2. Number_management API - to start (node server.js)
    - To check whether the URL is valid or not I checked the status code if it is betweeen 200 and 300 then its avalid URL.
    - And to merge the result I have added the data to a set to remove duplicates and sort it to match the response.
